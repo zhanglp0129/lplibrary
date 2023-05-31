@@ -1,6 +1,13 @@
 # lplibrary（亮鹏库）
 ## 声明
+- 动机：对于我来说，市面上的大部分库用起来都比较麻烦，我就想写一个用起来非常方便的库
+- 目的：让编程变得更简单，让Java变得更简单
+- 该项目将会持续更新，请放心使用
+- 版权：该项目完全原创，转载请说明出处（[本人github首页](https://github.com/zhanglp0129)）
 ## 如何使用
+- 源码中有使用文档
+## 贡献者
+- [zhanglp0129](https://github.com/zhanglp0129)
 ## 联系方式
 - 邮箱：lib@lpkaifa.com
 - 微信：lpkaifa
