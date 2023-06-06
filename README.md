@@ -6,6 +6,7 @@
 - 版权：该项目为本人原创，转载请说明出处（[本人github首页](https://github.com/zhanglp0129)）
 ## 如何使用
 - 源码中有使用文档
+- release中的jar包中可能包含一些半成品，具体使用以源码和文档为准
 ## 贡献者
 - [zhanglp0129](https://github.com/zhanglp0129)
 ## 联系方式
