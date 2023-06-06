@@ -35,7 +35,7 @@ public class Main {
 		httpRequest.setPath("https://www.example.com");
 		httpRequest.addParam("name", "ZhangSan");
 		httpRequest.addParam("password", "123456");
-		httpRequest.setCookies("user=zhangsan; uid=10000000001; status=1");
+		httpRequest.setCookies("user=zs; uid=10000000001; status=1");
 		// 发出请求
 		HttpResponse httpResponse = httpRequest.doGet();
 		System.out.println(httpResponse.getContent());
