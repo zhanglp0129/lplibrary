@@ -13,7 +13,6 @@
 ### Maven导入
 - 目前不能通过Maven导入
 ## 依赖
-- commons-io
 ```xml
 <dependency>
     <groupId>commons-io</groupId>
