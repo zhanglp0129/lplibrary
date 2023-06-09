@@ -6,8 +6,8 @@
 - 版权：该项目为本人原创，转载请说明出处（[github项目首页](https://github.com/zhanglp0129/lplibrary)）
 ## 如何使用
 ### 常规导入
-1. 在release中下载jar包（lplibrary-[version].jar）
-2. 在release中下载该项目的依赖（lplibrary-[version].lib.zip）
+1. 在release中下载jar包
+2. 在release中下载该项目的依赖，或者通过Maven导入依赖
 3. 将该项目的jar包和依赖都导入到您的项目，即可使用
 4. 下载使用文档（lplibrary-[version].doc.zip），并仔细阅读
 ### Maven导入
@@ -20,65 +20,41 @@
     <artifactId>commons-io</artifactId>
     <version>2.7</version>
 </dependency>
-```
-- guava
-```xml
 <dependency>
     <groupId>com.google.guava</groupId>
     <artifactId>guava</artifactId>
     <version>30.0-jre</version>
 </dependency>
-```
-- httpclient
-```xml
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
     <artifactId>httpclient</artifactId>
     <version>4.3.1</version>
 </dependency>
-```
-- tika
-```xml
 <dependency>
     <groupId>org.apache.tika</groupId>
     <artifactId>tika-core</artifactId>
     <version>1.27</version>
 </dependency>
-```
-- fastjson
-```xml
 <dependency>
     <groupId>com.alibaba</groupId>
     <artifactId>fastjson</artifactId>
     <version>1.2.67_noneautotype2</version>
 </dependency>
-```
-- bcprov
-```xml
 <dependency>
     <groupId>org.bouncycastle</groupId>
     <artifactId>bcprov-jdk15on</artifactId>
     <version>1.68</version>
 </dependency>
-```
-- bcpkix
-```xml
 <dependency>
     <groupId>org.bouncycastle</groupId>
     <artifactId>bcpkix-jdk15on</artifactId>
     <version>1.68</version>
 </dependency>
-```
-- bcpg
-```xml
 <dependency>
     <groupId>org.bouncycastle</groupId>
     <artifactId>bcpg-jdk15on</artifactId>
     <version>1.68</version>
 </dependency>
-```
-- commons-lang3
-```xml
 <dependency>
     <groupId>org.apache.commons</groupId>
     <artifactId>commons-lang3</artifactId>
