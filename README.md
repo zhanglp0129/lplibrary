@@ -12,7 +12,7 @@
 4. 下载使用文档（lplibrary-[version].doc.zip），并仔细阅读
 ### Maven导入
 - 目前不能通过Maven导入
-## 其他依赖
+## 依赖
 - commons-io
 ```xml
 <dependency>
