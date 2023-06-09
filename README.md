@@ -11,6 +11,7 @@
 3. 将该项目的jar包和依赖都导入到您的项目，即可使用
 4. 下载使用文档（lplibrary-[version].doc.zip），并仔细阅读
 ### Maven导入
+- 目前不能通过Maven导入
 ## 其他依赖
 - commons-io
 ```xml
