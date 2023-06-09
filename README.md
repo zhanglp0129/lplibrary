@@ -5,10 +5,12 @@
 - 该项目将会持续更新，请放心使用
 - 版权：该项目为本人原创，转载请说明出处（[github项目首页](https://github.com/zhanglp0129/lplibrary)）
 ## 如何使用
-- 下载使用文档，即后缀为.doc.zip的文件
-- 下载release中的jar包，然后导入项目即可
-- release中的jar包中可能包含一些半成品或已淘汰的类，具体使用以源码和文档为准
-## Maven导入
+### 常规导入
+1. 在release中下载jar包（lplibrary-[version].jar）
+2. 在release中下载该项目的依赖（lplibrary-[version].lib.zip）
+3. 将该项目的jar包和依赖都导入到您的项目，即可使用
+4. 下载使用文档（lplibrary-[version].doc.zip），并仔细阅读
+### Maven导入
 ## 其他依赖
 - commons-io
 ```xml
