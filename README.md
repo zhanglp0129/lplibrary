@@ -6,8 +6,8 @@
 - 版权：该项目为本人原创，转载请说明出处（[github项目首页](https://github.com/zhanglp0129/lplibrary)）
 ## 如何使用
 ### 常规导入
-1. 在release中下载jar包
-2. 在release中下载该项目的依赖，或者通过Maven导入依赖
+1. 在releases中下载jar包
+2. 在releases中下载该项目的依赖，或者通过Maven导入依赖
 3. 将该项目的jar包和依赖都导入到您的项目，即可使用
 4. 下载使用文档（lplibrary-[version].doc.zip），并仔细阅读
 ### Maven导入
