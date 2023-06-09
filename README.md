@@ -7,9 +7,9 @@
 ## 如何使用
 ### 常规导入
 1. 在releases中下载jar包
-2. 在releases中下载该项目的依赖，或者通过Maven导入依赖[Maven坐标在下方](https://github.com/zhanglp0129/lplibrary#%E4%BE%9D%E8%B5%96)
+2. 在releases中下载该项目的依赖，或者通过Maven导入依赖（[Maven坐标在下方](https://github.com/zhanglp0129/lplibrary#%E4%BE%9D%E8%B5%96)）
 3. 将该项目的jar包和依赖都导入到您的项目，即可使用
-4. 下载使用文档（lplibrary-[version].doc.zip），并仔细阅读
+4. 下载使用文档，并仔细阅读
 ### Maven导入
 - 目前不能通过Maven导入
 ## 依赖
