@@ -15,11 +15,6 @@
 ## 依赖
 ```xml
 <dependency>
-    <groupId>commons-io</groupId>
-    <artifactId>commons-io</artifactId>
-    <version>2.7</version>
-</dependency>
-<dependency>
     <groupId>com.google.guava</groupId>
     <artifactId>guava</artifactId>
     <version>30.0-jre</version>
