@@ -11,23 +11,6 @@
 3. 将该项目的jar包和依赖都导入到您的项目，即可使用
 4. 下载使用文档，并仔细阅读
 ### Maven导入
-1. 在settings.xml中添加镜像
-```xml
-<mirror>
-    <id>lp-nexus</id>
-    <name>lpkaifa maven</name>
-    <url>http://maven.lpkaifa.com:8081/repository/maven-public/</url>
-    <mirrorOf>central</mirrorOf>
-</mirror>
-```
-2. 在pom.xml导入坐标
-```xml
-<dependency>
-    <groupId>com.lpkaifa</groupId>
-    <artifactId>lplibrary</artifactId>
-    <version>1.1.1</version>
-</dependency>
-```
 ## 依赖
 ```xml
 <dependency>
