@@ -42,12 +42,18 @@
 <dependency>
     <groupId>org.apache.httpcomponents</groupId>
     <artifactId>httpclient</artifactId>
-    <version>4.3.1</version>
+    <version>4.5.13</version>
+</dependency>
+<dependency>
+    <groupId>junit</groupId>
+    <artifactId>junit</artifactId>
+    <version>4.13.1</version>
+    <scope>test</scope>
 </dependency>
 <dependency>
     <groupId>org.apache.tika</groupId>
     <artifactId>tika-core</artifactId>
-    <version>1.27</version>
+    <version>2.5.0</version>
 </dependency>
 <dependency>
     <groupId>com.alibaba</groupId>
@@ -57,7 +63,7 @@
 <dependency>
     <groupId>org.bouncycastle</groupId>
     <artifactId>bcprov-jdk15on</artifactId>
-    <version>1.68</version>
+    <version>1.69</version>
 </dependency>
 <dependency>
     <groupId>org.apache.commons</groupId>
