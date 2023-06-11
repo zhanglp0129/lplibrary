@@ -28,6 +28,10 @@
     <version>版本号</version>
 </dependency>
 ```
+### 建议
+- 使用Maven方式导入，原因：
+    1. Maven更方便（你下载方便，我上传也方便）
+    2. github上的更新频率不及Maven仓库
 ## 依赖
 ```xml
 <dependency>
@@ -53,16 +57,6 @@
 <dependency>
     <groupId>org.bouncycastle</groupId>
     <artifactId>bcprov-jdk15on</artifactId>
-    <version>1.68</version>
-</dependency>
-<dependency>
-    <groupId>org.bouncycastle</groupId>
-    <artifactId>bcpkix-jdk15on</artifactId>
-    <version>1.68</version>
-</dependency>
-<dependency>
-    <groupId>org.bouncycastle</groupId>
-    <artifactId>bcpg-jdk15on</artifactId>
     <version>1.68</version>
 </dependency>
 <dependency>
